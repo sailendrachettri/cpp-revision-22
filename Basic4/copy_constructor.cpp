@@ -22,7 +22,7 @@ public:
     {
         cout<< "\nCopy constructor invoked."<<endl;
         a = obj.a;
-    }
+    } 
 
     void display()
     {
